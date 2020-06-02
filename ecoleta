@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <!--HTML Significado
+        hypertext
+            hiper texto 
+        markup
+            marcação de texto
+
+        language
+            Linguagem de marcação de texto  
+
+    -->
+<head>
+    <meta harset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecoleta</title>
+ 
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+
+    <div id="page-home">
+
+        <div class="content blue">
+
+
+            <header>
+                <img src="/icones/logo.svg" alt="Logomarca">
+                <a href="www.google.com.br" >
+                    <span> > </span>
+                    Cadastre um ponto de coleta
+                </a>
+            </header>
+
+    
+        <h1>Seu marketplace de coleta de resíduos</h1>
+         <p class="blue">Ajudamos pessoasm a encontrarem pontos de coleta de forma eficiente.</p>
+         <button>Pesquisar ponto de coleta</button>
+        
+        </div>
+    
+
+    </div>
+
+   
+        
+ </body>
+</html>
